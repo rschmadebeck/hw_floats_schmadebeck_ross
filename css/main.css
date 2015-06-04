@@ -4,9 +4,9 @@ h1 {
 
 img {
     width: 400px;
+    position: relative;
     float: left;
-    clear: left;
-    display: inline-block;
+    clear: both;
 }
 
 p:nth-of-type(3) {
